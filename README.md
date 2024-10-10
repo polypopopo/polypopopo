@@ -9,31 +9,34 @@
   <a target="_blank">dread: sorry I can't tell, don't hack me</a>
 </p>
 
-### Education
+## Education
 
 - 2021~2025, college, computer application, actually never learn anything from there, because... free? opensource is free(for sure)
 
-### Experience
+## Experience
 
 - my college official website, a frontend developer(thanks to my friend and also lecturer, though the school was bad, I love her,akazia)
 - an blockchain wallet project which use react and ts, I still work at the frontend
 
-### skills
+## skills
 
 <details>
 <summary>2021-2023</summary>
-2021*<br>
+
+  ### 2021
   - learn nothing actually, only python and c, I had a girl friend and broke up in 2021(happy time🥲), then I becoming a programmer😢，sadness pushing me all time<br>
-2022*<br>
+
+  ### 2022
   - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)<br>
   - learn crpto and web, I was a script kiddy(still now)<br>
-*2023*<br>
+
+  ### 2023
   - I feel like I was a master, learn some algorithm like red&black and some hard graph algo<br>
 </details>
 
 
-<details display="block">
-<summary display="block">2024</summary>
+<details>
+<summary>2024</summary>
 
 - [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
   - on sr.ht, including how I learn it
