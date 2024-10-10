@@ -32,7 +32,7 @@
 </details>
 
 
-<details>
+<details display="block">
 <summary display="block">2024</summary>
 
 - [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
@@ -46,7 +46,7 @@
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)<br>
 I don't use github instead of sr.ht
 
 ### GitHub Statistics
