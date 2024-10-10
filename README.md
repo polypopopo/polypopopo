@@ -22,7 +22,7 @@
 
 <details>
 <summary>2021-2023</summary>
-*2021*
+**2021**
   - learn nothing actually, only python and c, I had a girl friend and broke up in 2021, then I becoming a programmer😢，sadness push me
 *2022*
   - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)
