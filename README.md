@@ -6,7 +6,7 @@
   <a href="mailto:juantan@onionmail.org">Email</a> |
   <a href="tg://resolve?domain=U_Ghk">Telegram</a> |
   <a href="skype:username?chat">Skype</a> |
-  <a href="#">Dread: Sorry, I can't tell, don't hack me</a>
+  <a href="https://example.com">Dread: Sorry, I can't tell, don't hack me</a>
 </p>
 
 ## Education
