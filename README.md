@@ -33,7 +33,7 @@
 
 
 <details>
-<summary>2024</summary>
+<summary display="block">2024</summary>
 
 - [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
   - on sr.ht, including how I learn it
@@ -42,8 +42,7 @@
 
 </details>
 
-<details>
-<summary>Expand</summary>
+
 
 ### GitHub Trophy
 
