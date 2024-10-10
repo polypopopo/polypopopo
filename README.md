@@ -1,66 +1,62 @@
 <h3 align="center">
-  👋Hi! I'm poly,used to living in Poly <img src="https://github.com/settings/profile">
+  👋Hi! I'm poly, used to living in Poly <img src="https://github.com/settings/profile">
 </h3>
 
 <p align="center">
   <a href="mailto:juantan@onionmail.org">Email</a> |
-  <a target="_blank">telegram: U Ghk</a> |
-  <a target="_blank">skype</a> |
-  <a target="_blank">dread: sorry I can't tell, don't hack me</a>
+  <a href="tg://resolve?domain=U_Ghk">Telegram</a> |
+  <a href="skype:username?chat">Skype</a> |
+  <a href="#">Dread: Sorry, I can't tell, don't hack me</a>
 </p>
 
 ## Education
 
-- 2021~2025, college, computer application, actually never learn anything from there, because... free? opensource is free(for sure)
+- **2021~2025, College, Computer Application**
+  - Actually never learned much from there, because... free? Open-source is free (for sure).
 
 ## Experience
 
-- my college official website, a frontend developer(thanks to my friend and also lecturer, though the school was bad, I love her,akazia)
-- an blockchain wallet project which use react and ts, I still work at the frontend
+- **College Official Website**
+  - Frontend Developer (Thanks to my friend and lecturer, Akazia)
+- **Blockchain Wallet Project**
+  - Frontend Developer using React and TypeScript
 
-## skills
+## Skills
 
 <details>
 <summary>2021-2023</summary>
 
   ### 2021
-  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021(happy time🥲), then I becoming a programmer😢，sadness pushing me all time<br>
+  - Learned nothing actually, only Python and C. Had a girlfriend and broke up in 2021 (happy time🥲), then became a programmer😢. Sadness pushed me all the time.
 
   ### 2022
-  - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)<br>
-  - learn crpto and web, I was a script kiddy(still now)<br>
+  - Started using Linux: Manjaro, BlackArch, Ubuntu, Arch (but i3), and then kept using Arch with GNOME (I love GNOME).
+  - Learned crypto and web development. Was a script kiddie (still now).
 
   ### 2023
-  - I feel like I was a master, learn some algorithm like red&black and some hard graph algo<br>
+  - Felt like a master, learned some algorithms like Red&Black and some hard graph algorithms.
 </details>
-
 
 <details>
 <summary>2024</summary>
 
-- [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
-  - on sr.ht, including how I learn it
-- [(still rust)still a kernel but a db kernel](https://hg.sr.ht/~polypopopo/database)
-  - same to above, both for discovery parallel algo and pin
-
+- **[(Rust) Write a Kernel](https://hg.sr.ht/~polypopopo/kernel_)**
+  - On sr.ht, including how I learned it.
+- **[(Still Rust) Still a Kernel but a DB Kernel](https://hg.sr.ht/~polypopopo/database)**
+  - Same as above, both for discovering parallel algorithms and pinning.
 </details>
-
-
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=255doesnotexist)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-I don't use github instead of sr.ht<br>
-and diagram, it's linus😛
+I don't use GitHub instead of sr.ht<br>
+and diagram, it's me😛
+
 ### GitHub Statistics
 
 <span>
   <a href="https://www.github.com/255doesnotexist">
-     <img src="https://github-readme-stats.vercel.app/api?username=linus&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
+     <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
   </a>
 </span>
-
-> ‍
-> 
-> ‍
