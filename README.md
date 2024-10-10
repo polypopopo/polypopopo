@@ -23,7 +23,7 @@
 <details>
 <summary>2021-2023</summary>
 2021*<br>
-  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021, then I becoming a programmer😢，sadness pushing me all time<br>
+  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021(happy time🥲), then I becoming a programmer😢，sadness pushing me all time<br>
 2022*<br>
   - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)<br>
   - learn crpto and web, I was a script kiddy(still now)<br>
