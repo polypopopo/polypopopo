@@ -48,15 +48,15 @@
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=255doesnotexist)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nothing)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 I don't use GitHub instead of sr.ht<br>
-and diagram, it's me😛
+and diagram, it's linus😛
 
 ### GitHub Statistics
 
 <span>
-  <a href="https://www.github.com/255doesnotexist">
-     <img src="https://github-readme-stats.vercel.app/api?username=255doesnotexist&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
+  <a href="https://www.github.com/polypopopo">
+     <img src="https://github-readme-stats.vercel.app/api?username=linus&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
   </a>
 </span>
