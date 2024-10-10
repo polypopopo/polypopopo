@@ -11,7 +11,7 @@
 
 ## Education
 
-- **2021~2025, College, Computer Application**
+- **2022~2025, College, Computer Application**
   - Actually never learned much from there, because... free? Open-source is free (for sure).
 
 ## Experience
@@ -22,9 +22,6 @@
   - Frontend Developer using React and TypeScript
 
 ## Skills
-
-
-<summary>2021-2023</summary>
 
   ### 2021
   - Learned nothing actually, only Python and C. Had a girlfriend and broke up in 2021 (happy time🥲), thus I became a programmer😢. Sadness pushed me all the time.
