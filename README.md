@@ -23,7 +23,7 @@
 
 ## Skills
 
-<details>
+
 <summary>2021-2023</summary>
 
   ### 2021
@@ -35,16 +35,16 @@
 
   ### 2023
   - Felt like a master, learned some algorithms like Red&Black and some hard graph algorithms.
-</details>
 
-<details>
+
+
 <summary>2024</summary>
 
 - **[(Rust) Write a Kernel](https://hg.sr.ht/~polypopopo/kernel_)**
   - On sr.ht, including how I learned it.
 - **[(Still Rust) Still a Kernel but a DB Kernel](https://hg.sr.ht/~polypopopo/database)**
   - Same as above, both for discovering parallel algorithms and pinning.
-</details>
+
 
 ### GitHub Trophy
 
