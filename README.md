@@ -46,14 +46,15 @@
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 I don't use github instead of sr.ht
 
 ### GitHub Statistics
 
 <span>
   <a href="https://www.github.com/255doesnotexist">
-     <img src="https://github-readme-stats.vercel.app/api?username=polypopopo&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
+     <img src="https://github-readme-stats.vercel.app/api?username=linus&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" alt="GitHub Stats" height="185px" />
   </a>
 </span>
 
