@@ -27,8 +27,8 @@
 <summary>2021-2023</summary>
 
   ### 2021
-  - Learned nothing actually, only Python and C. Had a girlfriend and broke up in 2021 (happy time🥲), then became a programmer😢. Sadness pushed me all the time.
-
+  - Learned nothing actually, only Python and C. Had a girlfriend and broke up in 2021 (happy time🥲), thus I became a programmer😢. Sadness pushed me all the time.
+  - it's joke above, actually it due to my worst education feeling
   ### 2022
   - Started using Linux: Manjaro, BlackArch, Ubuntu, Arch (but i3), and then kept using Arch with GNOME (I love GNOME).
   - Learned crypto and web development. Was a script kiddie (still now).
