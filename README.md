@@ -37,8 +37,7 @@
   - Felt like a master, learned some algorithms like Red&Black and some hard graph algorithms.
 
 
-
-<summary>2024</summary>
+  ### 2024
 
 - **[(Rust) Write a Kernel](https://hg.sr.ht/~polypopopo/kernel_)**
   - On sr.ht, including how I learned it.
