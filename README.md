@@ -21,15 +21,19 @@
 ### skills
 
 <details>
-<summary>2021</summary>
-
-- [(nothing actually, only python and c)]
-
+<summary>2021-2023</summary>
+*2021*
+  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021, then I becoming a programmer😢，sadness push me
+*2022*
+  - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)
+  - learn crpto and web, I was a script kiddy(still now)
+*2023*
+  - I feel like I was a master, learn some algorithm like red&black and some hard graph algo
 </details>
 
 
 <details>
-<summary>2022</summary>
+<summary>2024</summary>
 
 - [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
   - on sr.ht, including how I learn it
@@ -41,7 +45,7 @@
 
 ### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=polypopopo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)
 I don't use github instead of sr.ht
 
 ### GitHub Statistics
