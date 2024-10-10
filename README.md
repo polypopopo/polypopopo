@@ -1,5 +1,5 @@
 <h3 align="center">
-  👋Hi! I'm poly,used to living in Poly <img src="https://avatars.githubusercontent.com/u/19223209?v=4" alt="" size="20" height="20" width="20" style="border: 2px solid black; border-radius: 50%;"></img>
+  👋Hi! I'm poly,used to living in Poly <img src="https://github.com/settings/profile">
 </h3>
 
 <p align="center">
