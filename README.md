@@ -23,12 +23,12 @@
 <details>
 <summary>2021-2023</summary>
 2021*<br>
-  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021, then I becoming a programmer😢，sadness push me
+  - learn nothing actually, only python and c, I had a girl friend and broke up in 2021, then I becoming a programmer😢，sadness pushing me all time<br>
 2022*<br>
-  - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)
-  - learn crpto and web, I was a script kiddy(still now)
+  - start use linux, manjaro, blackarch, ubuntu, arch(but i3) and then keep using arch gnome(I love gnome)<br>
+  - learn crpto and web, I was a script kiddy(still now)<br>
 *2023*<br>
-  - I feel like I was a master, learn some algorithm like red&black and some hard graph algo
+  - I feel like I was a master, learn some algorithm like red&black and some hard graph algo<br>
 </details>
 
 
@@ -37,6 +37,8 @@
 
 - [(rust) write a kernel](https://hg.sr.ht/~polypopopo/kernel_)
   - on sr.ht, including how I learn it
+- [(still rust)still a kernel but a db kernel](https://hg.sr.ht/~polypopopo/database)
+  - same to above, both for discovery parallel algo and pin
 
 </details>
 
