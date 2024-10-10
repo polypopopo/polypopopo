@@ -48,7 +48,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=linus)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-I don't use github instead of sr.ht
+I don't use github instead of sr.ht<br>
 and diagram, it's linus😛
 ### GitHub Statistics
 
