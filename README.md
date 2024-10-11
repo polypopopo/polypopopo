@@ -1,36 +1,35 @@
-- drwxr-x---  24 root       root            4096 Oct 10 15:08  .
-- drwxr-xr-x  18 root       root            4096 Sep 27 03:00  ..
-- -rw-------   1 root       root            9847 Oct 10 15:08  .bash_history
-- -rw-r--r--   1 root       root               1 Oct  2 02:16  .bashrc
-- drwxr-xr-x   3 kernel_dev kernel_dev      4096 Sep 29 04:05  book-1
-- drwxr-xr-x  11 root       root            4096 Sep 30 11:38  bu
-- drwx------  20 root       root            4096 Oct  3 16:05  .cache
-- drwxr-xr-x   3 root       root            4096 Sep 29 16:24  .cargo
-- drwxr-xr-x   4 root       root            4096 Sep 28 07:01  cl_dashboard
-- drwx------  21 root       root            4096 Oct  3 17:26  .config
-- drwxr-xr-x 239 root       root           12288 Sep 30 08:05  .debug
-- drwx------   2 root       root            4096 Sep 28 06:43  .dosbox
-- drwxr-xr-x   3 root       root            4096 Oct 10 05:25  Downloads
-- -rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs
-- -rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs~
-- drwx------   3 root       root            4096 Oct  6 16:31  .emacs.d
-- drwxr-xr-x   7 root       root            4096 Sep 30 08:14  FlameGraph
-- drwx------   3 root       root            4096 Sep 26 13:59  .gnupg
-- -rw-r--r--   1 root       root            1698 Oct  3 16:54 'home database PolarDB.txt'
-- drwx------   5 root       root            4096 Oct  8 09:22  .local
-- drwx------   4 root       root            4096 Sep 27 17:43  .mozilla
-- -rw-r--r--   1 root       root           28707 Oct  8 08:38  ONNX用例测试_ver5.0.docx
-- drwxr-xr-x   2 root       root            4096 Oct  8 09:15  Screenshots
-- drwx------   2 root       root            4096 Sep 30 17:53  .ssh
-- drwxrwxrwx   3 root       root            4096 Oct  6 16:34  .systemtap
-- drwx------   4 root       root            4096 Sep 27 17:59  .thunderbird
-- drwxr-xr-x   3 root       root            4096 Oct  8 09:38  tor-browser-linux-x86_64-13.5.6
-- -rw-r--r--   1 root       root       116876684 Oct  8 09:37  tor-browser-linux-x86_64-13.5.6.tar.xz
-- drwxr-xr-x   3 root       root            4096 Oct  1 09:05  .var
-- drwxr-xr-x   2 root       root            4096 Oct  2 15:33  .vim
-- -rw-------   1 root       root           18908 Oct  6 16:31  .viminfo
-- drwx------   2 root       root            4096 Oct  8 09:19  .w3m
-- -rw-------   1 root       root              47 Sep 28 05:02  .Xauthority
-- -rw-r--r--   1 root       root               8 Sep 27 10:16  .xinitrc
-- -rw-r--r--   1 root       root          239131 Oct  9 04:36  周报12-谭峻瀚-20240928-刘雨冬.docx
+# Posts Directory
 
+- **Size:** 13733 words
+- **Access:** (0755/drwxr-xr-x)
+- **Uid:** (1000/parasrah)
+- **Gid:** (100/users)
+- **Modify:** 2023-07-09 15:09:37 -0600
+- **Birth:** 2023-07-07 19:33:33 -0600
+
+## Files
+
+- `-rw-r--r--` **parasrah** 897W Jul 07 2023 **status | july**
+- `-rw-r--r--` **parasrah** 426W May 04 2023 **status | may**
+- `-rw-r--r--` **parasrah** 724W Apr 06 2023 **linux | balancing sinks**
+- `-rw-r--r--` **parasrah** 709W Mar 28 2023 **router on a stick**
+- `-rw-r--r--` **parasrah** 660W Feb 19 2023 **encoding UTF-8**
+- `-rw-r--r--` **parasrah** 469W Feb 19 2023 **blog | unix update**
+- `-rw-r--r--` **parasrah** 455W Jan 10 2023 **spotlight | elixir/erlang**
+- `-rw-r--r--` **parasrah** 436W Dec 13 2022 **spotlight | NixOS**
+- `-rw-r--r--` **parasrah** 424W Dec 12 2022 **gaming on linux**
+- `-rw-r--r--` **parasrah** 428W Nov 27 2022 **my thoughts on FOSS**
+- `-rw-r--r--` **parasrah** 220W Sep 26 2022 **awesome software**
+- `-rw-r--r--` **parasrah** 716W Apr 27 2022 **docker reproducibility**
+- `-rw-r--r--` **parasrah** 875W Apr 19 2022 **introducing meg**
+- `-rw-r--r--` **parasrah** 627W Apr 18 2022 **context and complexity**
+- `-rw-r--r--` **parasrah** 291W Mar 26 2022 **let's encourage polyglots**
+- `-rw-r--r--` **parasrah** 573W Feb 23 2022 **git reflog && git gc**
+- `-rw-r--r--` **parasrah** 807W Feb 23 2022 **git --force**
+- `-rw-r--r--` **parasrah** 768W Feb 16 2022 **git rebase**
+- `-rw-r--r--` **parasrah** 601W Feb 05 2022 **why I use sourcehut**
+- `-rw-r--r--` **parasrah** 668W Jan 23 2022 **deterministic people**
+- `-rw-r--r--` **parasrah** 270W Jan 17 2022 **using a filelist**
+- `-rw-r--r--` **parasrah** 539W Jan 16 2022 **blog | about**
+- `-rw-r--r--` **parasrah** 824W Dec 28 2021 **spotlight | kakoune**
+- `-rw-r--r--` **parasrah** 326W Dec 22 2021 **modal editing is awesome**
