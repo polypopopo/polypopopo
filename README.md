@@ -1,13 +1,10 @@
-# Posts Directory
-
+- **Posts Directory**
 - **Size:** 13733 words
 - **Access:** (0755/drwxr-xr-x)
 - **Uid:** (1000/parasrah)
 - **Gid:** (100/users)
 - **Modify:** 2023-07-09 15:09:37 -0600
 - **Birth:** 2023-07-07 19:33:33 -0600
-
-## Files
 
 - `-rw-r--r--` **parasrah** 897W Jul 07 2023 **status | july**
 - `-rw-r--r--` **parasrah** 426W May 04 2023 **status | may**
