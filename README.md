@@ -1,4 +1,3 @@
-<p>
 - drwxr-x---  24 root       root            4096 Oct 10 15:08  .
 - drwxr-xr-x  18 root       root            4096 Sep 27 03:00  ..
 - -rw-------   1 root       root            9847 Oct 10 15:08  .bash_history
@@ -12,8 +11,8 @@
 - drwxr-xr-x 239 root       root           12288 Sep 30 08:05  .debug
 - drwx------   2 root       root            4096 Sep 28 06:43  .dosbox
 - drwxr-xr-x   3 root       root            4096 Oct 10 05:25  Downloads
--rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs
--rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs~
+- -rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs
+- -rw-r--r--   1 root       root             527 Sep 27 15:38  .emacs~
 - drwx------   3 root       root            4096 Oct  6 16:31  .emacs.d
 - drwxr-xr-x   7 root       root            4096 Sep 30 08:14  FlameGraph
 - drwx------   3 root       root            4096 Sep 26 13:59  .gnupg
@@ -35,5 +34,3 @@
 - -rw-r--r--   1 root       root               8 Sep 27 10:16  .xinitrc
 - -rw-r--r--   1 root       root          239131 Oct  9 04:36  周报12-谭峻瀚-20240928-刘雨冬.docx
 
-  
-</p>
