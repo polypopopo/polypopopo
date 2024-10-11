@@ -6,10 +6,10 @@
 - **Modify:** 2024-07-09 15:09:37 -0600
 - **Birth:** 2024-07-07 19:33:33 -0600
 
- -rw-r--r-- **poly** 897W Jul 07 2023 [**status | july**](https://blog.com)
- -rw-r--r-- **poly** 426W May 04 2023 [**status | may**](https://blog.com)
- -rw-r--r-- **poly** 724W Apr 06 2023 **linux | balancing sinks**
- -rw-r--r-- **poly** 709W Mar 28 2023 **router on a stick**
+ > -rw-r--r-- **poly** 897W Jul 07 2023 [**status | july**](https://blog.com)
+ > -rw-r--r-- **poly** 426W May 04 2023 [**status | may**](https://blog.com)
+ > -rw-r--r-- **poly** 724W Apr 06 2023 **linux | balancing sinks**
+ > -rw-r--r-- **poly** 709W Mar 28 2023 **router on a stick**
  -rw-r--r-- **poly** 660W Feb 19 2023 **encoding UTF-8**
  -rw-r--r-- **poly** 469W Feb 19 2023 **blog | unix update**
  -rw-r--r-- **poly** 455W Jan 10 2023 **spotlight | elixir/erlang**
