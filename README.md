@@ -6,7 +6,7 @@
 - **Modify:** 2024-07-09 15:09:37 -0600
 - **Birth:** 2024-07-07 19:33:33 -0600
 
-- -rw-r--r-- **parasrah** 897W Jul 07 2023 <a>**status | july**</a>
+- -rw-r--r-- **parasrah** 897W Jul 07 2023 **status | july**(https://blog.com)
 - -rw-r--r-- **parasrah** 426W May 04 2023 **status | may**
 - -rw-r--r-- **parasrah** 724W Apr 06 2023 **linux | balancing sinks**
 - -rw-r--r-- **parasrah** 709W Mar 28 2023 **router on a stick**
