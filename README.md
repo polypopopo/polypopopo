@@ -1,10 +1,10 @@
- > **Posts Directory**
- > **Name:** poly 
- > **Access:** (0755/drwxr-xr-x)
- > **Uid:** (1000/parasrah)
- > **Gid:** (100/users)
- > **Modify:** 2024-07-09 15:09:37 -0600
- > **Birth:** 2024-07-07 19:33:33 -0600
+ > **Posts Directory**<br>
+ > **Name:** poly <br>
+ > **Access:** (0755/drwxr-xr-x)<br>
+ > **Uid:** (1000/parasrah)<br>
+ > **Gid:** (100/users)<br>
+ > **Modify:** 2024-07-09 15:09:37 -0600<br>
+ > **Birth:** 2024-07-07 19:33:33 -0600<br>
 
  > -rw-r--r-- **poly** 897W Jul 07 2023 [**status | july**](https://blog.com)<br>
  > -rw-r--r-- **poly** 426W May 04 2023 [**status | may**](https://blog.com)<br>
